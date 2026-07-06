@@ -1,0 +1,92 @@
+RFC 2350 Profile for CSIRT-CA
+
+1. Document Information
+1.1 Date of Last Update
+Version 1.0, 06 July 2026.
+
+1.2 Distribution List for Notifications
+There is no distribution list for notifications of updates to this document.
+
+1.3 Locations where this Document May Be Found
+The current version of this document can always be found at: https://csirt-ca.org/rfc2350.txt
+
+1.4 Authenticating this Document
+This document is signed with the CSIRT-CA PGP key. The signature for this document is available at: https://csirt-ca.org/rfc2350.txt.sig
+
+2. Contact Information
+2.1 Name of the Team
+CSIRT-CA: Central Asian Computer Security Incident Response Team
+
+2.2 Address
+Independent non-profit initiative. No physical office.
+
+2.3 Time Zone
+UTC+5
+
+2.4 Telephone Number
+Not available.
+
+2.5 Facsimile Number
+Not available.
+
+2.6 Other Telecommunication
+X (Twitter): @CSIRT_CAsia
+Telegram: @csirt_ca
+
+2.7 Electronic Mail Address
+info@csirt-ca.org
+
+2.8 Public Keys and Encryption Information
+CSIRT-CA strictly requires PGP for sensitive communications.
+Key ID: CSIRT Central Asia info@csirt-ca.org
+Key Type: RSA 4096
+Valid until: 06.07.2029
+Fingerprint: B883 6E81 1C7F 68AD 3FA2 8C2D 8AD6 6817 3199 88F4
+
+The public key is available at: https://github.com/csirt-ca/public-keys/blob/main/pgp-key.asc
+
+2.9 Team Members
+CSIRT-CA is operated by independent volunteer cybersecurity researchers.
+
+2.10 Other Information
+For more information, please visit https://csirt-ca.org
+
+2.11 Points of Customer Contact
+The preferred method of contacting CSIRT-CA is via e-mail at info@csirt-ca.org. As a volunteer-driven non-profit project, operations are conducted on a "best effort" basis. There are no guaranteed response times or fixed business hours. In case of email failures, alternative contact can be made via direct messages on X (@CSIRT_CAsia) or Telegram (@csirt_ca).
+
+3. Charter
+3.1 Mission Statement
+CSIRT-CA is an independent, non-profit initiative established to identify, aggregate, and disclose vulnerabilities, data leaks, and malicious C&C servers. We aim to assist organizations in proactively defending their infrastructure by promoting open access to threat intelligence.
+
+3.2 Constituency
+The constituency consists of public and private sector organizations, telecommunication operators, and National CERTs across five Central Asian countries: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.
+
+3.3 Sponsorship and/or Affiliation
+CSIRT-CA is a fully independent, volunteer-driven project without formal government or commercial affiliation.
+
+3.4 Authority
+CSIRT-CA has no formal authority to require actions. We act on an advisory basis. All passive reconnaissance is conducted strictly via Open Source Intelligence (OSINT).
+
+4. Policies
+4.1 Types of Incidents and Level of Support
+CSIRT-CA primarily handles vulnerabilities, open exposures, data leaks (excluding PII publication), and C&C server activities.
+CSIRT-CA does NOT handle financial fraud, scams, or provide end-user IT support (e.g., antivirus or antispam configuration). Support is provided on a best-effort basis.
+
+4.2 Co-operation, Interaction and Disclosure of Information
+CSIRT-CA follows a Responsible Disclosure policy. Sensitive data is encrypted and handled with strict confidentiality. Personally Identifiable Information (PII) from data breaches will not be published.
+
+4.3 Communication and Authentication
+Emails containing sensitive information must be encrypted using the team's PGP key.
+
+5. Services
+5.1 Incident Response
+CSIRT-CA conducts coordination and notification regarding identified threats.
+
+5.2 Proactive Activities
+Continuous OSINT monitoring and publication of depersonalized Threat Intelligence feeds.
+
+6. Incident Reporting Forms
+No specific forms are required. Please report incidents or vulnerabilities via encrypted email.
+
+7. Disclaimers
+While every precaution will be taken in the preparation of information, notifications, and alerts, CSIRT-CA assumes no responsibility for errors or omissions, or for damages resulting from the use of the information contained within.
